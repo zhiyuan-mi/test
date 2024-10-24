@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lFe6xFaxRrI4sseLDMqXFfzdiL2cwx28gqodDKqjxeE=",
+  "Source": "GrpcServiceTest",
+  "BasePath": "_content/GrpcServiceTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

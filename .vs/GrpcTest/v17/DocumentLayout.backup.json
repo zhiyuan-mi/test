@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\main\\grpcTest\\GrpcTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D69F1985-464D-4AFF-AB29-AEA064D7CE2C}|grpcClientTest\\grpcClientTest.csproj|d:\\main\\grpctest\\grpctest\\grpcclienttest\\grpcrequesttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69F1985-464D-4AFF-AB29-AEA064D7CE2C}|grpcClientTest\\grpcClientTest.csproj|solutionrelative:grpcclienttest\\grpcrequesttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C858320-5BC9-4904-9495-47C7D1A6FED8}|GrpcServiceTest\\GrpcServiceTest.csproj|d:\\main\\grpctest\\grpctest\\grpcservicetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C858320-5BC9-4904-9495-47C7D1A6FED8}|GrpcServiceTest\\GrpcServiceTest.csproj|solutionrelative:grpcservicetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C858320-5BC9-4904-9495-47C7D1A6FED8}|GrpcServiceTest\\GrpcServiceTest.csproj|d:\\main\\grpctest\\grpctest\\grpcservicetest\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C858320-5BC9-4904-9495-47C7D1A6FED8}|GrpcServiceTest\\GrpcServiceTest.csproj|solutionrelative:grpcservicetest\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C858320-5BC9-4904-9495-47C7D1A6FED8}|GrpcServiceTest\\GrpcServiceTest.csproj|d:\\main\\grpctest\\grpctest\\grpcservicetest\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C858320-5BC9-4904-9495-47C7D1A6FED8}|GrpcServiceTest\\GrpcServiceTest.csproj|solutionrelative:grpcservicetest\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C858320-5BC9-4904-9495-47C7D1A6FED8}|GrpcServiceTest\\GrpcServiceTest.csproj|d:\\main\\grpctest\\grpctest\\grpcservicetest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C858320-5BC9-4904-9495-47C7D1A6FED8}|GrpcServiceTest\\GrpcServiceTest.csproj|solutionrelative:grpcservicetest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\main\\grpcTest\\GrpcTest\\GrpcServiceTest\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "GrpcServiceTest\\Services\\OrderService.cs",
+              "ToolTip": "D:\\main\\grpcTest\\GrpcTest\\GrpcServiceTest\\Services\\OrderService.cs",
+              "RelativeToolTip": "GrpcServiceTest\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:32:40.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\main\\grpcTest\\GrpcTest\\GrpcServiceTest\\appsettings.json",
+              "RelativeDocumentMoniker": "GrpcServiceTest\\appsettings.json",
+              "ToolTip": "D:\\main\\grpcTest\\GrpcTest\\GrpcServiceTest\\appsettings.json",
+              "RelativeToolTip": "GrpcServiceTest\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T03:00:43.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GrpcRequestTest.cs",
+              "DocumentMoniker": "D:\\main\\grpcTest\\GrpcTest\\grpcClientTest\\GrpcRequestTest.cs",
+              "RelativeDocumentMoniker": "grpcClientTest\\GrpcRequestTest.cs",
+              "ToolTip": "D:\\main\\grpcTest\\GrpcTest\\grpcClientTest\\GrpcRequestTest.cs",
+              "RelativeToolTip": "grpcClientTest\\GrpcRequestTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T02:43:18.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GreeterService.cs",
+              "DocumentMoniker": "D:\\main\\grpcTest\\GrpcTest\\GrpcServiceTest\\Services\\GreeterService.cs",
+              "RelativeDocumentMoniker": "GrpcServiceTest\\Services\\GreeterService.cs",
+              "ToolTip": "D:\\main\\grpcTest\\GrpcTest\\GrpcServiceTest\\Services\\GreeterService.cs",
+              "RelativeToolTip": "GrpcServiceTest\\Services\\GreeterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:53:05.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\main\\grpcTest\\GrpcTest\\GrpcServiceTest\\Program.cs",
+              "RelativeDocumentMoniker": "GrpcServiceTest\\Program.cs",
+              "ToolTip": "D:\\main\\grpcTest\\GrpcTest\\GrpcServiceTest\\Program.cs",
+              "RelativeToolTip": "GrpcServiceTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:51:58.201Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
